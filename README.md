@@ -16,6 +16,7 @@ The project will be broken up into three Python notebooks :
 <br />
 Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot. This is just one example for a 50x50 grid world :
 <br />
+![Test Image 7](https://github.com/george-kalitsios/Project-Landmark-Detection-and-Tracking/blob/master/Images/robot_world.png)
 
 
 **Tools : NumPy, Pandas, Seaborn**
