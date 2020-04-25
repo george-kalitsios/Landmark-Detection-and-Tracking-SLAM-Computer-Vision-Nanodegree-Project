@@ -15,7 +15,7 @@ The project will be broken up into three Python notebooks :
 
 <br />
 
-**Tools : NumPy, Pandas, Seaborn**
+**Tools : Python 3,NumPy, Pandas, Seaborn**
 
 Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot. This is just one example for a 50x50 grid world :
 <br />
