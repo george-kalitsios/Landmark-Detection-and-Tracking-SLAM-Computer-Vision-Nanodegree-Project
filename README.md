@@ -3,7 +3,6 @@
 
 In this project, I implement SLAM (Simultaneous Localization and Mapping) for a 2-dimensional world. Sensor and motion data gathered by a simulated robot is used to create a map of an environment. SLAM gives us a way to track the location of a robot in the world in real-time and identify the locations of landmarks such as buildings, trees, rocks, etc.
 <br />
-<br />
 The project will be broken up into three Python notebooks :
 <br />
 
@@ -17,7 +16,7 @@ The project will be broken up into three Python notebooks :
 
 <br />
 Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot. This is just one example for a 50x50 grid world :
-
+<br />
 <br />
 
 ![Test Image 4](https://github.com/george-kalitsios/Project-Landmark-Detection-and-Tracking/blob/master/Images/robot_world.png)
@@ -31,7 +30,6 @@ The Udacity repository for this project: [Project: Landmark Detection and Tracki
 
 Short description :
 <br />
-
 Use feature detection and keypoint descriptors to build a map of the environment with SLAM (simultaneous
 localization and mapping).
 Implement a robust method for tracking an object over time, using elements of probability, motion models,
