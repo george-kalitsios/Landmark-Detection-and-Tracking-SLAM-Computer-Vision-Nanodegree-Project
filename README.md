@@ -14,9 +14,9 @@ The project will be broken up into three Python notebooks :
 **Notebook 3 : Landmark Detection and Tracking**
 
 <br />
+
 **Tools : NumPy, Pandas, Seaborn**
 
-<br />
 Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot. This is just one example for a 50x50 grid world :
 <br />
 <br />
@@ -29,8 +29,8 @@ Below is an example of a 2D robot world with landmarks (purple x's) and the robo
 The Udacity repository for this project: [Project: Landmark Detection and Tracking ](https://github.com/udacity/P3_Implement_SLAM)
 
 <br />
-
 Short description :
+
 <br />
 Use feature detection and keypoint descriptors to build a map of the environment with SLAM (simultaneous
 localization and mapping).
