@@ -16,4 +16,10 @@ Below is an example of a 2D robot world with landmarks (purple x's) and the robo
 
 **Tools : NumPy, Pandas, Seaborn**
 
-The Udacity repository for this project: [Landmark Detection and Tracking](https://github.com/udacity/P3_Implement_SLAM)
+The Udacity repository for this project: [Project: Landmark Detection and Tracking ](https://github.com/udacity/P3_Implement_SLAM)
+
+Use feature detection and keypoint descriptors to build a map of the environment with SLAM (simultaneous
+localization and mapping).
+Implement a robust method for tracking an object over time, using elements of probability, motion models,
+and linear algebra. This project tests your knowledge of localization techniques that are widely used in
+autonomous vehicle navigation.
