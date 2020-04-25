@@ -24,7 +24,7 @@ Below is an example of a 2D robot world with landmarks (purple x's) and the robo
 ![Test Image 4](https://github.com/george-kalitsios/Project-Landmark-Detection-and-Tracking/blob/master/Images/robot_world.png)
 
 
-
+<br />
 
 The Udacity repository for this project: [Project: Landmark Detection and Tracking ](https://github.com/udacity/P3_Implement_SLAM)
 
