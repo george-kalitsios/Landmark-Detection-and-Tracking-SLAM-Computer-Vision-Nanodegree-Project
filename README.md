@@ -6,11 +6,13 @@ In this project, I implement SLAM (Simultaneous Localization and Mapping) for a 
 <br />
 The project will be broken up into three Python notebooks :
 <br />
+
 **Notebook 1 : Robot Moving and Sensing**
 
 **Notebook 2 : Omega and Xi, Constraints**
 
 **Notebook 3 : Landmark Detection and Tracking**
+
 <br />
 Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot. This is just one example for a 50x50 grid world :
 <br />
