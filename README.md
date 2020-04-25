@@ -16,4 +16,4 @@ Below is an example of a 2D robot world with landmarks (purple x's) and the robo
 
 **Tools : NumPy, Pandas, Seaborn**
 
-The Udacity repository for this project: [Project: Landmark Detection and Tracking]()
+The Udacity repository for this project: [Landmark Detection and Tracking](https://github.com/udacity/P3_Implement_SLAM)
